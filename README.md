@@ -1,0 +1,1 @@
+# Rust - Open Application Script
